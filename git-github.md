@@ -24,4 +24,12 @@ $ git config --global core.editor emacs
 ##### Terms & Info
 - HEAD = The label meaning "You Are Here" (Latest version of the master file).
 - Usually a message is added with a commit.
-- 
+
+##### ACP
+- **A** Add
+  - `git add filename`
+  - "Staging"
+- **C** Commit
+  - `git commit -m "why message`
+- **P** Push
+  - `git push origin master` or `git push`
