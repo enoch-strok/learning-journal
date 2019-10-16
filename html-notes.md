@@ -8,7 +8,13 @@
         - Example <main> </main>
 
 ### In-Class Notes
-- Example of HTML code: `<p id="stressed"> content </p>
+##### Examples of HTML code: 
+- `<p id="stressed"> content </p>`
+- `<p class="group"> group </p>`
+- "Dont use id or class until you actually need to" -Ryan
+- `<img src="image.jpg" alt="two white kittens playing in green grass" title="two kittens">`
+- figure
+- figcaption
 
 ##### Tips When Presenting Design to Clients
 - Show them the wirefram first before the design so that the site will function well after launch.
