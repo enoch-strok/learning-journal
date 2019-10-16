@@ -9,4 +9,4 @@ I am russian/ukrainian and am a veteran. I have 5 years of experience working in
 - [Github and Git Page](git-github.md)
 - [Cheatsheet Page](cheatsheet.md)
 - [Html Notes Page](html-notes.md)
-- [IT Portfolio](www.sdsx.co)
+- [IT Portfolio](https://sdsx.co)
