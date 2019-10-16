@@ -1,5 +1,7 @@
-# `<git>` vs GitHub
-- `<git>` is the **verson control software** and GitHub is the **cloud manager/collaboration**.
+# Git vs GitHub
+
+##### What is Git and GitHub?
+- Git is the **verson control software** and GitHub is the **cloud manager/collaboration**.
 - In the past, version controlling was done locally only.
 - VCS (Version Control System)
 - CVCS (Centralized Version Control System)
