@@ -15,6 +15,7 @@ I am russian/ukrainian and am a veteran. I have 5 years of experience working in
 - [Markdown](notes-markdown.md)
 - [JavaScript](notes-javascript.md)
 - [CSS](notes-css.md)
+- [Computers](computer-architecture.md)
 
 ##### Lessons Learned
 - [What I Learned](what-i-learned.md)
